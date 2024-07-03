@@ -31,11 +31,23 @@ To run the Employee Management API:
 
 5. Start the development server:
      ```bash
-    python manage.py migrate
+    python manage.py runserver
+
+##API Endpoints
+You can access the following endpoints:
+
+GET /api/employees/
+List all employees.
+
+POST /api/employees/
+Create a new employee.
+
+GET /api/employees/{id}/
+Retrieve details of a specific employee.
+
+PUT /api/employees/{id}/
+Update details of a specific employee.
+
+DELETE /api/employees/{id}/
+Delete a specific employee.
   
-
-   
-
-
-
-
