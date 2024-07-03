@@ -34,6 +34,9 @@ To run the Employee Management API:
     python manage.py runserver
 
 ## API Endpoints
+
+### By default, this will run your server at http://localhost:8000/
+
 You can access the following endpoints:
 
 GET /api/employees/
