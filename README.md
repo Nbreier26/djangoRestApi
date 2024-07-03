@@ -35,7 +35,7 @@ To run the Employee Management API:
 
 ## API Endpoints
 
-### By default, this will run your server at http://localhost:8000/
+By default, this will run your server at http://localhost:8000/
 
 You can access the following endpoints:
 
