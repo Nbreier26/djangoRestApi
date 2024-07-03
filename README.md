@@ -33,7 +33,7 @@ To run the Employee Management API:
      ```bash
     python manage.py runserver
 
-##API Endpoints
+## API Endpoints
 You can access the following endpoints:
 
 GET /api/employees/
