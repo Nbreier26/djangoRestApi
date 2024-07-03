@@ -14,8 +14,8 @@ To run the Employee Management API:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+   git clone https://github.com/Nbreier26/djangoRestApi.git
+   cd djangoRestApi
 
 2. Make sure Python 3.x is installed. You can check by running:
     ```bash
